@@ -12,4 +12,5 @@ Examples of how to use the project.
 
 ### Authors
 
-- Your Names
+- Minh Duc Tran
+- Hoang Anh Ly
